@@ -17,4 +17,4 @@ if check != 0:
 			break
 
 else:
-	print(str(prime) ++ ' is prime.')
+	print(str(prime) + ' is prime.')
